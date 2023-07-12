@@ -1,0 +1,11 @@
+{
+    "name": "PushService",
+    "alias": "pushservice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PushService\\Providers\\PushServiceServiceProvider"
+    ],
+    "files": []
+}
